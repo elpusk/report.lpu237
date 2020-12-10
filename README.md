@@ -1,9 +1,9 @@
 # LPU237 ROHS2 documents.
 
-* [C type](#-c-type)
-* [D type](#-d-type)
-* [E type](#-e-type)
-* [M type](#-m-type)
+* [C type](#c-type)
+* [D type](#d-type)
+* [E type](#e-type)
+* [M type](#m-type)
 
 -------
 ## C type
