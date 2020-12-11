@@ -1,6 +1,10 @@
 # LPU237 ROHS2 documents.
 For editing this document, Use visual studo code + markdownlint extension.
 
+The issue date is displayed in front of the file name. (xxxx.xx.xx) file name.
+
+For getting all data, use clone of main branch.
+
 ## contents table
 * [C type](#c-type)
 * [D type](#d-type)
