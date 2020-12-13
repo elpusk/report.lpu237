@@ -20,8 +20,8 @@ For getting all data, use clone of main branch.
    * [KTN2907](#KTN2907)
    * [MMBT2222](#MMBT2222)
    * [LPC1343](#LPC1343)
-   * [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-   * [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+   * [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+   * [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
    * [53048-8](#53048-8)
    * [53048-4](#53048-4)
    * [Hansaem Digitech bare pcb](#Hansaem-bare-pcb)
@@ -31,7 +31,7 @@ For getting all data, use clone of main branch.
    * [43mm MSR housing](#43mm-MSR-housing)
    * [screw 3x6](#screw-3x6)
    * [screw 3x8](#screw-3x8)
-   * [screw 2x2.5](#screw-2x2.5)
+   * [screw 2x2.5](#screw-2x2_5)
    * [magnetic head of C, D, E type](#magnetic-head-for-CDE)
    * [magnetic head for M, P type](#magnetic-head-for-MP)
    * [magnetic head cable](#magnetic-head-cable)
@@ -58,8 +58,8 @@ For getting all data, use clone of main branch.
 6. [KTN2907](#KTN2907)
 7. [MMBT2222](#MMBT2222)
 8. [LPC1343](#LPC1343)
-9. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-10. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+9. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+10. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 11. [53048-8](#53048-8)
 12. [53048-4](#53048-4)
 13. [BARE PCB LPU230 REV.E.A , 1.0T](#Hansaem-bare-pcb)
@@ -77,7 +77,7 @@ For getting all data, use clone of main branch.
 2. [guide](#guide-for-CDE)
 3. [screw of guide](#screw-3x6)
 4. [screw of complete](#screw-3x8)
-5. [screw of head](#screw-2x2.5)
+5. [screw of head](#screw-2x2_5)
 
 ### assembly
 1. [magnetic head](#magnetic-head-for-CDE)
@@ -97,8 +97,8 @@ For getting all data, use clone of main branch.
 8. [MMBT2222](#MMBT2222)
 9. [74HC244](#74HC244)
 10. [LPC1343](#LPC1343)
-11. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-12. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+11. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+12. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 13. [53047-2](#53047-2)
 14. [53047-4](#53047-4)
 15. [53047-8](#53047-8)
@@ -119,7 +119,7 @@ For getting all data, use clone of main branch.
 2. [guide](#guide-for-CDE)
 3. [screw of guide](#screw-3x6)
 4. [screw of complete](#screw-3x8)
-5. [screw of head](#screw-2x2.5)
+5. [screw of head](#screw-2x2_5)
 
 ### assembly
 1. [magnetic head](#magnetic-head-for-CDE)
@@ -148,8 +148,8 @@ For getting all data, use clone of main branch.
 11. ~~AU9254A21 [rohs](./circuit/AU9254A21/RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf)~~
     * (2020.06.25) RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf
 12. [LPC1343](#LPC1343)
-13. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-14. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+13. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+14. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 15. [53047-2](#53047-2)
 16. [53047-4](#53047-4)
 17. [53047-5](#53047-5)
@@ -170,7 +170,7 @@ For getting all data, use clone of main branch.
 2. [guide](#guide-for-CDE)
 3. [screw of guide](#screw-3x6)
 4. [screw of complete](#screw-3x8)
-5. [screw of head](#screw-2x2.5)
+5. [screw of head](#screw-2x2_5)
 
 ### assembly
 1. [magnetic head](#magnetic-head-for-CDE)
@@ -187,8 +187,8 @@ For getting all data, use clone of main branch.
 5. [KTN2907](#KTN2907)
 6. [MMBT2222](#MMBT2222)
 7. [LPC1343](#LPC1343)
-8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 10. [bead](#bead)
 11. [12505WS-08](#connector-yeonho)
 12. [12505WS-02](#connector-yeonho)
@@ -204,8 +204,8 @@ For getting all data, use clone of main branch.
 5. [KTN2907](#KTN2907)
 6. [MMBT2222](#MMBT2222)
 7. [LPC1343](#LPC1343)
-8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 10. [bead](#bead)
 11. ~~DF13-5P-1.25DS [rohs](./circuit/hirose/) - waiting a e-mail.~~
 12. [12505WS-02](#connector-yeonho)
@@ -228,14 +228,14 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 5. [KTN2907](#KTN2907)
 6. [LPC1343](#LPC1343)
 7. [DeltaAsic2100654X MLF15](#DeltaAsic2100654X-MLF15)
-8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
-9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 10. ~~50439-005~~
 11. [BARE PCB LPU237-P001, 0.4T](#Hansaem-bare-pcb)
 
 ### mechanism
 1. [guide](#guide-for-MP)
-2. [screw of head](#screw-2x2.5)
+2. [screw of head](#screw-2x2_5)
 
 ### assembly
 1. [magnetic head](#magnetic-head-for-MP)
@@ -253,16 +253,16 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 8. [MMBT2222](#MMBT2222)
 9. [LPC1343](#LPC1343)
 10. [DeltaAsic2100654X MLF15](#DeltaAsic2100654X-MLF15)
-11. [SPX3819M5-L-3.3V](#SPX3819M5-L-3.3V)
+11. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
 12. [74HC244](#74HC244)
-13. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz/3225-SMD-3225)
+13. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 14. ~~532610571~~
 15. ~~10019HR-04A00~~
 16. [BARE PCB LPU237-5G](#Hansaem-bare-pcb)
 
 ### mechanism
 1. [guide](#guide-for-MP)
-2. [screw of head](#screw-2x2.5)
+2. [screw of head](#screw-2x2_5)
 
 ### assembly
 1. [magnetic head](#magnetic-head-for-MP)
@@ -343,10 +343,10 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.06.23) SSMC-8 inch wafer-Jun23'20.pdf
    * (2020.08.18) Tanaka-AuPd1 (2N)-Aug18'20.pdf
    * (2020.08.18) Tanaka-AuPd1 (2N)-BERYLLIUM-Aug18'20.pdf
-### SPX3819M5-L-3.3V
+### SPX3819M5-L-3_3V
 [rohs](./circuit/spx3819/spx3819m5-l-3-3_tr.pdf)
    * (2020.12.06) spx3819m5-l-3-3_tr.pdf
-### xtal 12MHz/3225 SMD 3225
+### xtal 12MHz
 [rohs](./circuit/xtal/TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF)
    * (2020.06.23) TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF
 ### 53048-8
@@ -390,7 +390,7 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 ### screw 3x8
 [rohs](./screw/완조립_스크류(3X8).zip)
    * (2020.1.17) RoHS 3가착 20200117.pdf
-### screw 2x2.5
+### screw 2x2_5
 [rohs](./screw/헤드_스크류(2X2.5).zip)
    * (2020.03.19) screw（BOCQRC1）.pdf
    * (2019.08.01) 헤드 및 스크류(2 X 2.5).pdf
