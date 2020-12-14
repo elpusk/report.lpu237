@@ -309,8 +309,14 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.08.07) 2020-SGS-chip-ROHS-RUNLED.pdf
    * (2020.08.12) 2020-SGS-REACH-CHIP-RUNLED.pdf
 ### SSF14
-[rohs](./circuit/ssf14/ROHS2_Compliance_Statement.pdf)
-   * (2018.07.12) ROHS2_Compliance_Statement.pdf
+[rohs](./circuit/ssf14/ssf14.zip)
+   * (2020.12.10) RoHS_CoC_SSP.pdf
+   * (2020.09.15) Clip Sep2020.pdf
+   * (2020.09.15) Lead frame Sep2020.pdf
+   * (2020.09.15) Mold compound Sep2020.pdf
+   * (2020.09.24) Solder paste Sep2020.pdf
+   * (2020.09.15) Tin Sep2020.pdf
+   * (2020.08.05) VGST-85_(TRENCH SKY 1)_CE_2020_75249.pdf
 ### UMT-8523FSA
 [rohs](./circuit/buzzer/201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls)
    * (2019.10.10) 201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls
