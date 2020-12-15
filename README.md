@@ -145,7 +145,7 @@ For getting all data, use clone of main branch.
    * (2020.09.23) Test Report_SGS_CE_2020_92366_Silicon wafer 20200923.pdf
    * (2020.02.24) Tin plating_SINYANG 20200224.pdf
 10. [74HC244](#74HC244)
-11. ~~AU9254A21 [rohs](./circuit/AU9254A21/RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf)~~
+11. AU9254A21 [rohs](./circuit/AU9254A21/RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf)
     * (2020.06.25) RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf
 12. [LPC1343](#LPC1343)
 13. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
@@ -257,7 +257,7 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 12. [74HC244](#74HC244)
 13. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 14. ~~532610571~~
-15. ~~10019HR-04A00~~
+15. [10019HR-04A00](#connector-yeonho)
 16. [BARE PCB LPU237-5G](#Hansaem-bare-pcb)
 
 ### mechanism
@@ -426,8 +426,8 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.03.16) 裸铜线（英文）.pdf
    * (2020.11.27) 0500588000_rohs.pdf
 ### guide for CDE
-[rohs](./mechanism/RoHS+Phthalates_HF380_180314_TCOA18-0187-01_18.03.14.pdf)
-   * (2018.3.14) RoHS+Phthalates_HF380_180314_TCOA18-0187-01_18.03.14.pdf 
+[rohs](./mechanism/HF380.RoHS+Phthalates.200313_TCOA20-0077-01.pdf)
+   * (2020.3.13) HF380.RoHS+Phthalates.200313_TCOA20-0077-01.pdf 
 ### guide for MP
 [rohs](./mechanism/ABS750A+ROHS2.0.PDF)
    * (2019.05.07) ABS750A+ROHS2.0.PDF     
