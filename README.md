@@ -350,8 +350,8 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.08.18) Tanaka-AuPd1 (2N)-Aug18'20.pdf
    * (2020.08.18) Tanaka-AuPd1 (2N)-BERYLLIUM-Aug18'20.pdf
 ### SPX3819M5-L-3_3V
-[rohs](./circuit/spx3819/spx3819m5-l-3-3_tr.pdf)
-   * (2020.12.06) spx3819m5-l-3-3_tr.pdf
+[rohs](./circuit/spx3819/OK-20210115-MDS-SGS-MSDS_SPX3819M5-L-3-3_SOT-23-5L.xls)
+   * (2020.03.23) OK-20210115-MDS-SGS-MSDS SPX3819M5-L-3-3 SOT-23-5L.xls
 ### xtal 12MHz
 [rohs](./circuit/xtal/TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF)
    * (2020.06.23) TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF
