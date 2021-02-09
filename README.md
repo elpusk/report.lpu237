@@ -12,6 +12,7 @@ For getting all data, use clone of main branch.
 * [F type](#f-type)
 * [M001 type](#m001-type)
 * [P001 type](#p001-type)
+* [5G type](#5g-type)
 * [common parts](#common-parts)
    * [chip resistor and capactor](#chip-resistor-and-capactor)
    * [chip led](#chip-led)
