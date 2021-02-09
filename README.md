@@ -50,6 +50,7 @@ For getting all data, use clone of main branch.
 -------
 ## C type
 - MSR function. USB interface. [UP](#contents-table)
+- ![c type](./img/c_type.jpg)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
@@ -87,6 +88,7 @@ For getting all data, use clone of main branch.
 -------
 ## D type
 - MSR, i-button functions. USB, RS232 interface.[UP](#contents-table)
+- ![d type](./img/d_type.jpg)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
@@ -129,6 +131,7 @@ For getting all data, use clone of main branch.
 -------
 ## E type
 - MSR, i-button functions. USB, RS232 interface. USB hub(For SCR).[UP](#contents-table)
+- ![e type](./img/e_type.jpg)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
@@ -181,6 +184,7 @@ For getting all data, use clone of main branch.
 ## F type
 - i-button function only.[UP](#contents-table)
 ### F00N - USB and RS232 interfaces.
+- ![F00N type](./img/f00n_type.jpg)
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
 3. [chip led](#chip-led)
@@ -198,6 +202,7 @@ For getting all data, use clone of main branch.
 15. [BARE PCB LPU230-2 REV.D.A , 1.6T](#Hansaem-bare-pcb)
 
 ### F00NU - USB only interface.
+- ![F00NU type](./img/f00nu_type.jpg)
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
 3. [chip led](#chip-led)
