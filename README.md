@@ -11,8 +11,8 @@ For getting all data, use clone of main branch.
 * [E type](#e-type)
 * [F type](#f-type)
 * [M001 type](#m001-type)
+* [M003 type](#m003-type)
 * [P001 type](#p001-type)
-* [5G type](#5g-type)
 * [common parts](#common-parts)
    * [chip resistor and capactor](#chip-resistor-and-capactor)
    * [chip led](#chip-led)
@@ -241,7 +241,7 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 ### assembly
 1. [magnetic head](#magnetic-head-for-MP)
 
-## 5G type
+## M003 type
 - POGO pin type.[UP](#contents-table)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
