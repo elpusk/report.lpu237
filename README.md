@@ -221,8 +221,8 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 
 ## M001 type
 - very compact type.[UP](#contents-table)
-1. [declaration of Rohs conformity](./product/m/DoC_?—˜?¼?Š¤?¬(LPU237-M001).pdf) - This product is tested at ETL test laboratory.
-   * (2019.08.01) DoC_?—˜?¼?Š¤?¬(LPU237-M001).pdf
+1. [declaration of Rohs conformity](./product/m/DoC_ì—˜í¼ìŠ¤í¬(LPU237-M001).pdf) - This product is tested at ETL test laboratory.
+   * (2019.08.01) DoC_ì—˜í¼ìŠ¤í¬(LPU237-M001).pdf
 
 ## P001 type
 - very compact type and -_-;; .[UP](#contents-table)
@@ -324,8 +324,8 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.09.15) Tin Sep2020.pdf
    * (2020.08.05) VGST-85_(TRENCH SKY 1)_CE_2020_75249.pdf
 ### UMT-8523FSA
-[rohs](./circuit/buzzer/201104_UMT_8523FSA_ROHS_REPORT_??´?˜¨? „?.xls)
-   * (2019.10.10) 201104_UMT_8523FSA_ROHS_REPORT_??´?˜¨? „?.xls
+[rohs](./circuit/buzzer/201104_UMT_8523FSA_ROHS_REPORT_ìì´ì˜¨ì „ì.xls)
+   * (2019.10.10) 201104_UMT_8523FSA_ROHS_REPORT_ìì´ì˜¨ì „ì.xls
 ### KTN2907  
 [rohs](./circuit/tr/KTN2907_SOT-23_Material_Declaration.xls)
    * ~~(2018.10.11) KTN2907_SOT-23_Material_Declaration.xls~~
@@ -371,14 +371,14 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 [rohs](./circuit/pcb/hsdgt/hsdgt.zip)
    * (2019.11.29) CCL_DS-7408_Phthalates (2019.11.29).PDF
    * (2019.11.29) CCL_DS-7408_RoHs (2019.11.29).PDF
-   * (2020.03.02) Marking Ink_IJR-4000 MW301N ?‰?¬? ¯(RoHS)(20.03.02.).pdf
-   * (2020.03.02) Markinh Ink_IJR-4000 MW301N ?‰?¬? ¯(Phthalates)(2020.03.02).pdf
+   * (2020.03.02) Marking Ink_IJR-4000 MW301N ì‰í¬ì ¯(RoHS)(20.03.02.).pdf
+   * (2020.03.02) Markinh Ink_IJR-4000 MW301N ì‰í¬ì ¯(Phthalates)(2020.03.02).pdf
    * (2019.04.10) Solder Ink_DSR-8000S8-19 Phthalates 2019 04.10.pdf
    * (2019.10.16) Solder Ink_DSR-8000S8-19 RoHS 2019.10.16.pdf
-   * (2020.01.09) ?‘œë©´ì²˜ë¦?(OSP)_CP OS-100C RoHS 2020.01.09.PDF
+   * (2020.01.09) í‘œë©´ì²˜ë¦¬(OSP)_CP OS-100C RoHS 2020.01.09.PDF
 ### bead
-[rohs](./circuit/bead/?™„? œ?’ˆ_CHIP_BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf)
-   * (2020.03.17) ?™„? œ?’ˆ_CHIP BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf   
+[rohs](./circuit/bead/ì™„ì œí’ˆ_CHIP_BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf)
+   * (2020.03.17) ì™„ì œí’ˆ_CHIP_BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf   
 ### DeltaAsic2100654X MLF15
 [rohs](./circuit/DeltaAsic/COC_21006541_ROHS_3_Magtek_Delta_ASIC.pdf)
    * (2020.11.02) COC_21006541_ROHS_3_Magtek_Delta_ASIC.pdf
@@ -391,45 +391,45 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.06.26) A504X90 RoHS6,Ph8,MCCP,HBCDD20200626.pdf
    * (2020.06.26) A504X90 Sb_20200626.pdf
 ### 43mm MSR housing
-[rohs](./mechanism/43mm_?•˜?š°ì§?(ê¸°êµ¬).zip)
-   * (2020.05.27) 304æ£?æµ‹ROHS?‹±?–‡.PDF
-   * (2020.01.03) 2020å¹´ROHS?é¡¹æ??æµ‹æŠ¥?‘Šï¼ˆC5191ä¸??–‡ï¼?.PDF
-   * (2019.05.07) ABS750A+ROHS2.0+ä¸??–‡?Š¥?‘Š.PDF
-   * (2020.04.01) QLAB-203TO15 C 20200401 ?–°è¾‰æ¨¡?…· ROHS6é¡? ?Š ?›–CNAS.pdf
+[rohs](./mechanism/43mm_í•˜ìš°ì§•(ê¸°êµ¬).zip)
+   * (2020.05.27) 304æ£€æµ‹ROHSè‹±æ–‡.PDF
+   * (2020.01.03) 2020å¹´ROHSåé¡¹æ£€æµ‹æŠ¥å‘Šï¼ˆC5191ä¸­æ–‡ï¼‰.PDF
+   * (2019.05.07) ABS750A+ROHS2.0+ä¸­æ–‡æŠ¥å‘Š.PDF
+   * (2020.04.01) QLAB-203TO15 C 20200401 æ–°è¾‰æ¨¡å…· ROHS6é¡¹ åŠ ç›–CNAS.pdf
 ### screw 3x6
-[rohs](./screw/GUIDE_?Š¤?¬ë¥?(3X6).zip)
-   * (2020.1.17) RoHS 3ê°?ì°? 20200117.pdf
+[rohs](./screw/GUIDE_ìŠ¤í¬ë¥˜(3X6).zip)
+   * (2020.1.17) RoHS 3ê°€ì°© 20200117.pdf
 ### screw 3x8
-[rohs](./screw/?™„ì¡°ë¦½_?Š¤?¬ë¥?(3X8).zip)
-   * (2020.1.17) RoHS 3ê°?ì°? 20200117.pdf
+[rohs](./screw/ì™„ì¡°ë¦½_ìŠ¤í¬ë¥˜(3X8).zip)
+   * (2020.1.17) RoHS 3ê°€ì°© 20200117.pdf
 ### screw 2x2_5
-[rohs](./screw/?—¤?“œ_?Š¤?¬ë¥?(2X2.5).zip)
-   * (2020.03.19) screwï¼ˆBOCQRC1ï¼?.pdf
-   * (2019.08.01) ?—¤?“œ ë°? ?Š¤?¬ë¥?(2 X 2.5).pdf
+[rohs](./screw/í—¤ë“œ_ìŠ¤í¬ë¥˜(2X2.5).zip)
+   * (2020.03.19) screwï¼ˆBOCQRC1ï¼‰.pdf
+   * (2019.08.01) í—¤ë“œ ë° ìŠ¤í¬ë¥˜(2 X 2.5).pdf
 ### magnetic head for CDE
-[rohs](./assembly/C_D_E_????…?š©_HEAD(ê¸°êµ¬).zip)
-   * (2020.09.17) 1J85 (1J85C???1J85X???1J79???1J79D??BYR79C??BYR6)?‹±?–‡.PDF
-   * (2019.04.17) 5aSGSä¸??–‡.PDF
-   * (2020.07.23) 301-ROHS10é¡?-20200723.PDF
+[rohs](./assembly/C_D_E_íƒ€ì…ìš©_HEAD(ê¸°êµ¬).zip)
+   * (2020.09.17) 1J85 (1J85Cã€1J85Xã€1J79ã€1J79Dã€BYR79Cã€BYR6)è‹±æ–‡.PDF
+   * (2019.04.17) 5aSGSä¸­æ–‡.PDF
+   * (2020.07.23) 301-ROHS10é¡¹-20200723.PDF
    * (2020.03.25) 2020gapspacer.pdf
    * (2020.03.14) A2200045972101001.pdf
-   * (2020.03.24) QLAB-203TO12 C ?–°è¾‰æ¨¡?…· ROHS10+ROHS4é¡? ?Š ?›–CNAS.pdf
+   * (2020.03.24) QLAB-203TO12 C æ–°è¾‰æ¨¡å…· ROHS10+ROHS4é¡¹ åŠ ç›–CNAS.pdf
    * (2019.04.22) UEW-F UEW-GF.PDF
-   * (2019.04.04) ?Ÿ?–™å¤ªé’¢301S-ROHS10-20190304E.pdf
+   * (2019.04.04) åŸæ–™å¤ªé’¢301S-ROHS10-20190304E.pdf
 ### magnetic head for MP
 [rohs](./assembly/M_P_type_header.zip)
-   * (2020.09.17) 1J85 (1J85C???1J85X???1J79???1J79D??BYR79C??BYR6)?‹±?–‡.PDF
-   * (2019.04.17) 5aSGSä¸??–‡.PDF
-   * (2020.07.23) 301-ROHS10é¡?-20200723.PDF
+   * (2020.09.17) 1J85 (1J85Cã€1J85Xã€1J79ã€1J79Dã€BYR79Cã€BYR6)è‹±æ–‡.PDF
+   * (2019.04.17) 5aSGSä¸­æ–‡.PDF
+   * (2020.07.23) 301-ROHS10é¡¹-20200723.PDF
    * (2020.03.14) A2200045972101001.pdf
-   * (2019.01.22) QLAB-191TO03  RoHS 6 é¡? ä¸??–‡_HEAD.pdf
-   * (2020.03.24) QLAB-203TO12 C ?–°è¾‰æ¨¡?…· ROHS10+ROHS4é¡? ?Š ?›–CNAS.pdf
+   * (2019.01.22) QLAB-191TO03  RoHS 6 é¡¹ ä¸­æ–‡_HEAD.pdf
+   * (2020.03.24) QLAB-203TO12 C æ–°è¾‰æ¨¡å…· ROHS10+ROHS4é¡¹ åŠ ç›–CNAS.pdf
    * (2019.04.22) UEW-F UEW-GF.PDF
 ### magnetic head cable
 [rohs](./assembly/HEAD_CABLE.zip)
    * (2020.12.09) Molex(510210400).pdf
-   * (2020.03.05) 2020å¹´rohs10é¡¹ç™½çº?é»?.pdf
-   * (2020.03.16) è£¸é“œçº¿ï¼ˆ?‹±?–‡ï¼?.pdf
+   * (2020.03.05) 2020å¹´rohs10é¡¹ç™½çº¢é»‘.pdf
+   * (2020.03.16) è£¸é“œçº¿ï¼ˆè‹±æ–‡ï¼‰.pdf
    * (2020.11.27) 0500588000_rohs.pdf
 ### guide for CDE
 [rohs](./mechanism/HF380.RoHS+Phthalates.200313_TCOA20-0077-01.pdf)
