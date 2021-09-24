@@ -279,37 +279,13 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 [UP](#contents-table)
 ## common parts
 ### chip resistor and capactor
-   * [rohs](./circuit/rc/ROHS.egg)
-     * (2019.12.20) (CE_2019_C2262) (Jumper)-20191220.pdf
-     * (2020.04.28) (CE_2020_44224) Y5V-20200428.pdf
-     * (2020.04.28) (CE_2020_44225) X5R-20200428.pdf
-     * (2020.04.28) (CE_2020_44226) X7R_X6S_X7S-20200428.pdf
-     * (2020.04.28) (CE_2020_44227) NPO-20200428.pdf
-     * (2020.08.24) (CE_2020_82443) (Array)(WAxx_WT04)-20200824.pdf
-     * (2020.08.24) (CE_2020_82444) (Chip-R)(WRxxX_W.WFxxH_G_K_P_S.WWxxX)-20200824.pdf
-   * [msds](./circuit/rc/MSDS.7z)
-     * (2019.12.19) 20191219-MLCC-SDS(NP0_HH_MT_MG).pdf
-     * (2019.12.19) 20191219-MLCC-SDS(X5R_MG_TT).pdf
-     * (2019.12.19) 20191219-MLCC-SDS(X7R_MT_MG_TT).pdf
-     * (2019.12.19) 20191219-MLCC-SDS(Y5V_TT).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR02).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR02X000 PxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR04=WF04X).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR04X000 PxL=WR04X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR06).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR06X000 PxL=WR06X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR08).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR08X000 PxL=WR08X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR10).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR10X000 PxL=WR10X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR12).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR12X000 PxL=WR12X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR18).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR18X000 PxL=WR18X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR20).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR20X000 PxL=WR20X0000FxL).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR25).pdf
-     * (2020.08.14) 20200814-Chip R-SDS(WR25X000 PxL=WR25X0000FxL).pdf
+   * [resistor](./circuit/rc/General_WRxxX_W_WFxxH_G_K_P_S_WWxxX.pdf)
+     * (2020.08.24) General_WRxxX_W_WFxxH_G_K_P_S_WWxxX.pdf
+   * [capacitor](./circuit/rc/cap.zip)
+     * (2021.04.29) TWNC00978117_X7R_X6S_X7S-20210429.pdf
+     * (2021.04.29) TWNC00978118_X5R-20210429.pdf
+     * (2021.04.29) TWNC00978119_Y5V-20210429.pdf
+     * (2021.04.29) TWNC00978120_NPO_X8G-20210429.pdf
 ### chip led
 [rohs](./circuit/led/2020-SGS-chip-ROHS-RUNLED.pdf), [reach](./circuit/led/2020-SGS-REACH-CHIP-RUNLED.pdf)
    * (2020.08.07) 2020-SGS-chip-ROHS-RUNLED.pdf
