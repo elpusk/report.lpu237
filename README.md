@@ -303,8 +303,8 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 [rohs](./circuit/buzzer/201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls)
    * (2019.10.10) 201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls
 ### KTN2907  
-[rohs](./circuit/tr/KTN2907_SOT-23_Material_Declaration.xls)
-   * ~~(2018.10.11) KTN2907_SOT-23_Material_Declaration.xls~~
+[rohs](./circuit/tr/RoHS2.0_KEC.pdf)
+   * ~~(기한없음) RoHS2.0_KEC.pdf~~
 ### MMBT2222
 [rohs](./circuit/tr/mmbt2222.zip)
    * (2019.08.27) KWUNSHAN_SGS_EN.PDF
