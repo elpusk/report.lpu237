@@ -12,7 +12,7 @@ For getting all data, use clone of main branch.
 * [F type](#f-type)
 * [M001 type](#m001-type)
 * [M003 type](#m003-type)
-* [P001 type](#p001-type)
+* P001 type (=M003 type, this name is changed by customer.)
 * [common parts](#common-parts)
    * [chip resistor and capactor](#chip-resistor-and-capactor)
    * [chip led](#chip-led)
@@ -224,30 +224,9 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 1. [declaration of Rohs conformity](./product/m/DoC_엘퍼스크(LPU237-M001).pdf) - This product is tested at ETL test laboratory.
    * (2019.08.01) DoC_엘퍼스크(LPU237-M001).pdf
 
-## P001 type
-- very compact type and -_-;; .[UP](#contents-table)
-### board main
-1. [chip resistor](#chip-resistor-and-capactor)
-2. [chip capactor](#chip-resistor-and-capactor)
-3. [chip led](#chip-led)
-4. [bead](#bead)
-5. [KTN2907](#KTN2907)
-6. [LPC1343](#LPC1343)
-7. [DeltaAsic2100654X MLF15](#DeltaAsic2100654X-MLF15)
-8. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
-9. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
-10. ~~50439-005~~
-11. [BARE PCB LPU237-P001, 0.4T](#Hansaem-bare-pcb)
-
-### mechanism
-1. [guide](#guide-for-MP)
-2. [screw of head](#screw-2x2_5)
-
-### assembly
-1. [magnetic head](#magnetic-head-for-MP)
-
 ## M003 type
-- ![POGO pin type](./img/m003_type.jpg) [UP](#contents-table)
+- POGO pin type  [UP](#contents-table)
+- ![POGO pin type](./img/m003_type.jpg)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
