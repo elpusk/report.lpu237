@@ -8,7 +8,7 @@ For getting all data, use clone of main branch.
 ## contents table
 * [C type](#c-type)
 * [D type](#d-type)
-* [E type](#e-type)
+* E type - Discontinued
 * [F type](#f-type)
 * [M001 type](#m001-type)
 * [M003 type](#m003-type)
@@ -16,7 +16,7 @@ For getting all data, use clone of main branch.
 * [common parts](#common-parts)
    * [chip resistor and capactor](#chip-resistor-and-capactor)
    * [chip led](#chip-led)
-   * [SSF14](#SSF14)
+   * [SS1F4](#SS1F4)
    * [UMT-8523FSA](#UMT-8523FSA)
    * [KTN2907](#KTN2907)
    * [MMBT2222](#MMBT2222)
@@ -38,11 +38,12 @@ For getting all data, use clone of main branch.
    * [magnetic head cable](#magnetic-head-cable)
    * [guide for C, D, E type](#guide-for-CDE)
    * [guide for M, P type](#guide-for-MP)
-   * [SS14](#SS14)
+   * [SS1F4](#SS1F4)
    * [74HC244](#74HC244)
    * [53047-2](#53047-2)
    * [53047-4](#53047-4)
    * [53047-5](#53047-5)
+   * [53047-7](#53047-7)
    * [53047-8](#53047-8)
    * [74HC4066](#74HC4066)
    * [NZ9F3V6T5G](#NZ9F3V6T5G)
@@ -50,12 +51,12 @@ For getting all data, use clone of main branch.
 -------
 ## C type
 - MSR function. USB interface. [UP](#contents-table)
-- ![c type](./img/c_type.jpg)
+- ![c type](./img/c_g.a.jpg)
 ### board main
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
 3. [chip led](#chip-led)
-4. [SSF14](#SSF14)
+4. [SS1F4](#SS1F4)
 5. [UMT-8523FSA](#UMT-8523FSA)
 6. [KTN2907](#KTN2907)
 7. [MMBT2222](#MMBT2222)
@@ -63,16 +64,16 @@ For getting all data, use clone of main branch.
 9. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
 10. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
 11. [53048-8](#53048-8)
-12. [53048-4](#53048-4)
-13. [BARE PCB LPU230 REV.E.A , 1.0T](#Hansaem-bare-pcb)
+12. [53047-7](#53047-7)
+13. [BARE PCB LPU230 REV.G.A , 1.0T](#Hansaem-bare-pcb)
 14. [bead](#bead)
 
 ### board head
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
-3. [DeltaAsic2100654X MLF15](#DeltaAsic2100654X-MLF15)
-4. [12505WR-04](#connector-yeonho)
-5. [BARE PCB HEAD LPU230-1 REV.C.E , 0.6T](#Hansaem-bare-pcb)
+3. [MMD1100 MLF15](#MMD1100)
+4. [12505WR-07](#connector-yeonho)
+5. [BARE PCB HEAD CSS TMSR REV.C.B , 0.6T](#Hansaem-bare-pcb)
 
 ### mechanism
 1. [43mm MSR housing](#43mm-MSR-housing)
@@ -93,74 +94,21 @@ For getting all data, use clone of main branch.
 1. [chip resistor](#chip-resistor-and-capactor)
 2. [chip capactor](#chip-resistor-and-capactor)
 3. [chip led](#chip-led)
-4. [SSF14](#SSF14)
-5. [SS14](#SS14)
-6. [UMT-8523FSA](#UMT-8523FSA)
-7. [KTN2907](#KTN2907)
-8. [MMBT2222](#MMBT2222)
-9. [74HC244](#74HC244)
-10. [LPC1343](#LPC1343)
-11. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
-12. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
-13. [53047-2](#53047-2)
-14. [53047-4](#53047-4)
-15. [53047-8](#53047-8)
-16. [74HC4066](#74HC4066)
-17. [bead](#bead)
-18. [BARE PCB LPU230-1 REV.F.A , 1.6T](#Hansaem-bare-pcb)
-19. [NZ9F3V6T5G](#NZ9F3V6T5G)
-
-### board head
-1. [chip resistor](#chip-resistor-and-capactor)
-2. [chip capactor](#chip-resistor-and-capactor)
-3. [DeltaAsic2100654X MLF15](#DeltaAsic2100654X-MLF15)
-4. [12505WR-04](#connector-yeonho)
-5. [BARE PCB HEAD LPU230-1 REV.C.E , 0.6T](#Hansaem-bare-pcb)
-
-### mechanism
-1. [43mm MSR housing](#43mm-MSR-housing)
-2. [guide](#guide-for-CDE)
-3. [screw of guide](#screw-3x6)
-4. [screw of complete](#screw-3x8)
-5. [screw of head](#screw-2x2_5)
-
-### assembly
-1. [magnetic head](#magnetic-head-for-CDE)
-2. [magnetic head cable](#magnetic-head-cable)
-
--------
-## E type
-- MSR, i-button functions. USB, RS232 interface. USB hub(For SCR).[UP](#contents-table)
-- ![e type](./img/e_type.jpg)
-### board main
-1. [chip resistor](#chip-resistor-and-capactor)
-2. [chip capactor](#chip-resistor-and-capactor)
-3. [chip led](#chip-led)
-4. [SSF14](#SSF14)
-5. [SS14](#SS14)
-6. [UMT-8523FSA](#UMT-8523FSA)
-7. [KTN2907](#KTN2907)
-8. [MMBT2222](#MMBT2222)
-9. SI2303DS [rohs](./circuit/tr/SI2303CDS-T1-GE3.zip)
-   * (2020.08.18) CE_2020_81335A  C194(SDI)_Lead frame 20200818.pdf
-   * (2019.12.24) CEL-1702HF SERIES _Mold compound_RoHS Halogen 20191224.pdf
-   * (2020.08.18) EN-4620K_SHA20-149211-03_Die attach_F 20200818.PDF
-   * (2020.10.08) TANAKA - RoHS - ICP Test Report for TPCW (Cu Wire)  (2020-10-08).pdf
-   * (2020.09.23) Test Report_SGS_CE_2020_92366_Silicon wafer 20200923.pdf
-   * (2020.02.24) Tin plating_SINYANG 20200224.pdf
-10. [74HC244](#74HC244)
-11. AU9254A21 [rohs](./circuit/AU9254A21/RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf)
-    * (2020.06.25) RoHS3+REACH(209_SVHC)_CoC-Alcorlink.pdf
-12. [LPC1343](#LPC1343)
-13. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
-14. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
-15. [53047-2](#53047-2)
-16. [53047-4](#53047-4)
-17. [53047-5](#53047-5)
-18. [53047-8](#53047-8)
-19. [BARE PCB LPU230-1 REV.F.A , 1.6T](#Hansaem-bare-pcb)
-20. [74HC4066](#74HC4066)
-21. [NZ9F3V6T5G](#NZ9F3V6T5G)
+4. [SS1F4](#SS1F4)
+5. [UMT-8523FSA](#UMT-8523FSA)
+6. [KTN2907](#KTN2907)
+7. [MMBT2222](#MMBT2222)
+8. [74HC244](#74HC244)
+9. [LPC1343](#LPC1343)
+10. [SPX3819M5-L-3.3V](#SPX3819M5-L-3_3V)
+11. [xtal 12MHz/3225 SMD 3225](#xtal-12MHz)
+12. [53047-2](#53047-2)
+13. [53047-4](#53047-4)
+14. [53047-8](#53047-8)
+15. [74HC4066](#74HC4066)
+16. [bead](#bead)
+17. [BARE PCB LPU230-1 REV.F.A , 1.6T](#Hansaem-bare-pcb)
+18. [NZ9F3V6T5G](#NZ9F3V6T5G)
 
 ### board head
 1. [chip resistor](#chip-resistor-and-capactor)
@@ -197,8 +145,8 @@ For getting all data, use clone of main branch.
 10. [bead](#bead)
 11. [12505WS-08](#connector-yeonho)
 12. [12505WS-02](#connector-yeonho)
-13. MAX3232CPW [rohs](./circuit/MAX3232/MAX3232CPW.pdf)
-14. [SSF14](#SSF14)
+13. MAX3232CPW [rohs](./circuit/MAX3232/szzq088r.pdf) - (2024.05.23)
+14. [SS1F4](#SS1F4)
 15. [BARE PCB LPU230-2 REV.D.A , 1.6T](#Hansaem-bare-pcb)
 
 ### F00NU - USB only interface.
@@ -215,7 +163,7 @@ For getting all data, use clone of main branch.
 10. [bead](#bead)
 11. ~~DF13-5P-1.25DS [rohs](./circuit/hirose/) - waiting a e-mail.~~
 12. [12505WS-02](#connector-yeonho)
-13. [SSF14](#SSF14)
+13. [SS1F4](#SS1F4)
 14. [BARE PCB LPU230-3 REV.A.A , 1.6T](#Hansaem-bare-pcb) - The printed in PCB as "LPU230-2 REV.E.A".
 the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision string. In developing, LPU230-2 REV.E.A of F00N  was changed to  the  LPU230-3 REV.A.A of F00NU by customer request.
 
@@ -258,26 +206,17 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
 [UP](#contents-table)
 ## common parts
 ### chip resistor and capactor
-   * [resistor](./circuit/rc/General_WRxxX_W_WFxxH_G_K_P_S_WWxxX.pdf)
-     * (2020.08.24) General_WRxxX_W_WFxxH_G_K_P_S_WWxxX.pdf
-   * [capacitor](./circuit/rc/cap.zip)
-     * (2021.04.29) TWNC00978117_X7R_X6S_X7S-20210429.pdf
-     * (2021.04.29) TWNC00978118_X5R-20210429.pdf
-     * (2021.04.29) TWNC00978119_Y5V-20210429.pdf
-     * (2021.04.29) TWNC00978120_NPO_X8G-20210429.pdf
+   * [resistor](./circuit/rc/20250205_WTC_RoHS2_0_Halogen_Free_REACH_Compliance_Declaration.pdf)
+     * (2025.02.27) 20250205_WTC_RoHS2_0_Halogen_Free_REACH_Compliance_Declaration.pdf
+   * [capacitor](./circuit/rc/20250205_WTC_RoHS2_0_Halogen_Free_REACH_Compliance_Declaration.pdf)
+     * (2025.02.27) 20250205_WTC_RoHS2_0_Halogen_Free_REACH_Compliance_Declaration.pdf
 ### chip led
 [rohs](./circuit/led/2020-SGS-chip-ROHS-RUNLED.pdf), [reach](./circuit/led/2020-SGS-REACH-CHIP-RUNLED.pdf)
    * (2020.08.07) 2020-SGS-chip-ROHS-RUNLED.pdf
    * (2020.08.12) 2020-SGS-REACH-CHIP-RUNLED.pdf
-### SSF14
-[rohs](./circuit/ssf14/ssf14.zip)
-   * (2020.12.10) RoHS_CoC_SSP.pdf
-   * (2020.09.15) Clip Sep2020.pdf
-   * (2020.09.15) Lead frame Sep2020.pdf
-   * (2020.09.15) Mold compound Sep2020.pdf
-   * (2020.09.24) Solder paste Sep2020.pdf
-   * (2020.09.15) Tin Sep2020.pdf
-   * (2020.08.05) VGST-85_(TRENCH SKY 1)_CE_2020_75249.pdf
+### SS1F4
+[rohs](./circuit/ss1f4/rohs_compliancestatement_01012023.pdf)
+   * (2023.01.01) rohs_compliancestatement_01012023.pdf
 ### UMT-8523FSA
 [rohs](./circuit/buzzer/201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls)
    * (2019.10.10) 201104_UMT_8523FSA_ROHS_REPORT_자이온전자.xls
@@ -298,45 +237,30 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2019.03.14) on-semi SCG_HONG_KONG-TestReport2019-02-21-028-8135.pdf
    * (2019.03.14) on-semi SCG_HONG_KONG-TestReport2019-02-21-028-8137.pdf
 ### LPC1343
-[rohs](./circuit/mcu/LPC1343FHN33.zip)
-   * (2020.03.23) Henkel-QMI519-HALOGENS-Mar23'20.pdf
-   * (2020.03.23) Henkel-QMI519-Mar23'20.pdf
-   * (2019.12.24) Hitachi-CEL-9200HF series-Dec24'19.pdf
-   * (2020.11.16) LPC1343FHN33_518_935289655518.pdf
-   * (2020.05.19) Mitsui-Au Plating-May19'20.pdf
-   * (2020.03.05) Mitsui-C194-Mar05'20.pdf
-   * (2020.05.19) Mitsui-Ni Plating-May19'20.pdf
-   * (2020.05.19) Mitsui-Pd Plating-May19'20.pdf
-   * (2020.06.23) SSMC-8 inch wafer-Jun23'20.pdf
-   * (2020.08.18) Tanaka-AuPd1 (2N)-Aug18'20.pdf
-   * (2020.08.18) Tanaka-AuPd1 (2N)-BERYLLIUM-Aug18'20.pdf
+[rohs](./circuit/mcu/NXP-ROHS-DECLARATION.pdf)
+   * (2022.02.28) NXP-ROHS-DECLARATION.pdf
 ### SPX3819M5-L-3_3V
-[rohs](./circuit/spx3819/OK-20210115-MDS-SGS-MSDS_SPX3819M5-L-3-3_SOT-23-5L.xls)
-   * (2020.03.23) OK-20210115-MDS-SGS-MSDS SPX3819M5-L-3-3 SOT-23-5L.xls
+[rohs](./circuit/spx3819/DownloadQuality.pdf)
+   * (2025.05.21) DownloadQuality.pdf
 ### xtal 12MHz
 [rohs](./circuit/xtal/TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF)
    * (2020.06.23) TSN20-010138-02_EC_TP20-003958_F--SMD_Crystal.PDF
 ### 53048-8
-[rohs](./circuit/connector/molex/0530480410_rohs.pdf)
-   * (2020.10.28) 0530480410_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### 53048-4
-[rohs](./circuit/connector/molex/0530480810_rohs.pdf)
-   * (2020.8.10) 0530480810_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### Hansaem bare pcb
-[rohs](./circuit/pcb/hsdgt/hsdgt.zip)
-   * (2019.11.29) CCL_DS-7408_Phthalates (2019.11.29).PDF
-   * (2019.11.29) CCL_DS-7408_RoHs (2019.11.29).PDF
-   * (2020.03.02) Marking Ink_IJR-4000 MW301N 잉크젯(RoHS)(20.03.02.).pdf
-   * (2020.03.02) Markinh Ink_IJR-4000 MW301N 잉크젯(Phthalates)(2020.03.02).pdf
-   * (2019.04.10) Solder Ink_DSR-8000S8-19 Phthalates 2019 04.10.pdf
-   * (2019.10.16) Solder Ink_DSR-8000S8-19 RoHS 2019.10.16.pdf
-   * (2020.01.09) 표면처리(OSP)_CP OS-100C RoHS 2020.01.09.PDF
+[rohs](./circuit/pcb/hsdgt/Han_Saem_Digtec_2025_RoHS.pdf)
+   * (2025.01.17) Han_Saem_Digtec_2025_RoHS.PDF
 ### bead
 [rohs](./circuit/bead/완제품_CHIP_BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf)
    * (2020.03.17) 완제품_CHIP_BEAE_RoHS,Sb,Be,HF,Ph_20200317.pdf   
-### DeltaAsic2100654X MLF15
-[rohs](./circuit/DeltaAsic/COC_21006541_ROHS_3_Magtek_Delta_ASIC.pdf)
-   * (2020.11.02) COC_21006541_ROHS_3_Magtek_Delta_ASIC.pdf
+### DeltaAsic2100654X MLF15 - Discontinued
+
+### MMD1100 - None
+
 ### connector yeonho
 [rohs](./circuit/connector/yeonho/yeonho.zip)
    * (2019.01.22) C2680 MSDS.pdf
@@ -385,54 +309,37 @@ the revision string(LPU230-2 REV.E.A) of printed in PCB is the mis revision stri
    * (2020.12.09) Molex(510210400).pdf
    * (2020.03.05) 2020年rohs10项白红黑.pdf
    * (2020.03.16) 裸铜线（英文）.pdf
-   * (2020.11.27) 0500588000_rohs.pdf
+   * (2025.05.21) molex_connector.pdf
 ### guide for CDE
 [rohs](./mechanism/HF380.RoHS+Phthalates.200313_TCOA20-0077-01.pdf)
    * (2020.3.13) HF380.RoHS+Phthalates.200313_TCOA20-0077-01.pdf 
 ### guide for MP
 [rohs](./mechanism/ABS750A+ROHS2.0.PDF)
    * (2019.05.07) ABS750A+ROHS2.0.PDF     
-### SS14
-[rohs](./circuit/diode/KD-DIODE(Plastic)-ROHS_ICP_DATA-MSDS(2020).xls)
-   * (2019.11.27) KD-DIODE(Plastic)-ROHS_ICP_DATA-MSDS(2020).xls
+### SS1F4
+[rohs](./circuit/diode/rohs_compliancestatement_01012023.pdf)
+   * (2023.01.01) rohs_compliancestatement_01012023.pdf
 ### 74HC244
-[rohs](./circuit/74HC244/74HC244.zip)
-   * (2020.06.23) Die - Wafer 2020-06-23 (All).pdf
-   * (2019.12.24) Mould compound - CEL-8240HF series, 2019-12-24 (RoHS,Phthalates,Halogens,Sb).pdf
-   * (2019.11.26) Wire - Cu99 99, 2019-11-26 (RoHS,Phthalates,Halogens,Sb).pdf
-   * (2020.06.18) Adhesive - QMI-519_cured (Henkel QMI519 in cured status), 2020-06-18 (Halogens).pdf
-   * (2020.06.18) Adhesive - QMI-519_cured (Henkel QMI519 in cured status), 2020-06-18 (RoHS,Phthalates,Be).pdf
-   * (2020.06.18) Adhesive - QMI-519_cured (Henkel QMI519 in cured status), 2020-06-18 (Sb).pdf
-   * (2020.01.03) LF Material CuFe2P (Haesung DS_C194-uPPF), 2020-01-03 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Au (Haesung DS Au plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Ni (Haesung DS Ni plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Pd (Haesung DS Pd plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
+[rohs](./circuit/74HC244/NXP-ROHS-DECLARATION.pdf)
+   * (2022.02.28) NXP-ROHS-DECLARATION.pdf
 ### 53047-2
-[rohs](./circuit/connector/molex/0530470210_rohs.pdf)
-   * (2020.08.10) 0530470210_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### 53047-4
-[rohs](./circuit/connector/molex/0530470410_rohs.pdf)
-   * (2020.10.16) 0530470410_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### 53047-5
-[rohs](./circuit/connector/molex/0530470510_rohs.pdf)
-   * (2020.10.22) 0530470510_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
+### 53047-7
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### 53047-8
-[rohs](./circuit/connector/molex/0530470810_rohs.pdf)
-   * (2020.10.22) 0530470810_rohs.pdf
+[rohs](./circuit/connector/molex/molex_connector.pdf)
+   * (2025.05.21) molex_connector.pdf
 ### 74HC4066
-[rohs](./circuit/74HC4066D/74HC4066D.zip)
-   * (2020.06.23) Die - Wafer 2020-06-23 (All).pdf
-   * (2019.12.24) Mould compound - CEL-8240HF series, 2019-12-24 (RoHS,Phthalates,Halogens,Sb).pdf
-   * (2019.11.26) Wire - Cu99 99, 2019-11-26 (RoHS,Phthalates,Halogens,Sb).pdf
-   * (2020.02.13) Adhesive - 71-1-D (Henkel 71-1-D), 200-02-13 (Halogens).pdf
-   * (2020.02.13) Adhesive - 71-1-D (Henkel 71-1-D), 200-02-13 (PFOA,PFOS).pdf
-   * (2020.02.13) Adhesive - 71-1-D (Henkel 71-1-D), 200-02-13 (Phosphorous).pdf
-   * (2020.02.13) Adhesive - 71-1-D (Henkel 71-1-D), 200-02-13 (RoHS, Phthalates, Be).pdf
-   * (2020.02.13) Adhesive - 71-1-D (Henkel 71-1-D), 200-02-13 (Sb).pdf
-   * (2020.01.03) LF Material CuFe2P (Haesung DS_C194-uPPF), 2020-01-03 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Au (Haesung DS Au plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Ni (Haesung DS Ni plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
-   * (2020.01.03) Pre-plating Pd (Haesung DS Pd plating) 2020-01-23 (RoHS,Phthalates,Halogens,Sb,Be).pdf
+[rohs](./circuit/74HC4066D/NXP-ROHS-DECLARATION.pdf)
+   * (2022.02.28) NXP-ROHS-DECLARATION.pdf
 ### NZ9F3V6T5G
 [rohs](./circuit/NZ9F3V6T5G/MaterialComposition.pdf)
    * (2020.12.10) MaterialComposition.pdf
